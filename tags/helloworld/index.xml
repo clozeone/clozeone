@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Kuroze</title>
-    <link>https://clozeone.github.io/posts/</link>
-    <description>Recent content in Posts on Kuroze</description>
+    <title>helloworld on Kuroze</title>
+    <link>https://clozeone.github.io/tags/helloworld/</link>
+    <description>Recent content in helloworld on Kuroze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://clozeone.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://clozeone.github.io/tags/helloworld/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>{{ Hello World }}</title>
       <link>https://clozeone.github.io/posts/post/</link>
