@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kuroze</title>
-    <link>https://clozeone.github.io/</link>
-    <description>Recent content on Kuroze</description>
+    <title>politics on Kuroze</title>
+    <link>https://clozeone.github.io/tags/politics/</link>
+    <description>Recent content in politics on Kuroze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Sep 2021 11:12:51 +0200</lastBuildDate><atom:link href="https://clozeone.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 11:12:51 +0200</lastBuildDate><atom:link href="https://clozeone.github.io/tags/politics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sociolistos</title>
       <link>https://clozeone.github.io/posts/sociolistos/</link>
@@ -26,19 +26,6 @@ Las redes sociales, en sus buenos momentos, nos permiten compartir i debatir pun
 &lt;/blockquote&gt;
 &lt;p&gt;Lo cierto es que es una colección de tópicos bastante completa sobre el capitalismo, el socialismo, y su comparación. Cada una de estas opiniones se ha repetido miles de veces en distintos foros, y es lo que vamos a encontrarnos en la mayoría de conversaciones cotidianas al respecto. Vale la pena hablar sobre ello.&lt;/p&gt;
 &lt;p&gt;Es necesario empezar con un comentario al respecto de los términos usados, porque él no le dedica tiempo, dando por supuesto que sabemos de lo que hablamos. Hay una gran cantidad de ideas sobre cómo organizar una sociedad, que suelen agruparse en propuestas de sistemas. La parte central de estos sistemas suele ser la estructura económica, esto es, cómo se generarán, acumularán, y distribuirán los recursos de los estados. No es esta la única dimensión de algo tan complejo como un estado, por supuesto: hay también ideas sobre los derechos de cada individuo, el papel de la religión, o la política territorial. Aquí es donde debo hacer mi primera crítica al vídeo: en primer lugar, habla de socialismo y capitalismo como los dos únicos sistemas, aunque a su favor debo decir que a efectos prácticos son los que más calado ideológico tienen a nivel mundial; habla de socialismo y capitalismo como dos sistemas perfectamente definidos, y lo cierto es que hay muchos socialismos y muchos capitalismos; habla de capitalismo y de socialismo como mútuamente excluyentes, y en la práctica encontramos un gran solapamiento entre ellos: encontraremos que en gran medida los estados cuentan con ciertas actividades o necesidades que se cubren de manera socializada, y otras de manera capitalista.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>{{ Hello World }}</title>
-      <link>https://clozeone.github.io/posts/post/</link>
-      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://clozeone.github.io/posts/post/</guid>
-      <description>No tinc més intenció en aquest blog que la d&amp;rsquo;organitzar els meus pensaments per poder exposar-los millor quan faci falta.
-Sobre mi: vaig néixer el 1984, visc a l&amp;rsquo;Hospitalet de Llobregat, sóc català i d&amp;rsquo;esquerres.</description>
-      <content>&lt;p&gt;No tinc més intenció en aquest blog que la d&amp;rsquo;organitzar els meus pensaments per poder exposar-los millor quan faci falta.&lt;/p&gt;
-&lt;p&gt;Sobre mi: vaig néixer el 1984, visc a l&amp;rsquo;Hospitalet de Llobregat, sóc català i d&amp;rsquo;esquerres.&lt;/p&gt;
 </content>
     </item>
     
