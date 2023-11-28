@@ -1,4 +1,4 @@
 baseURL = "https://clozeone.github.io/"
 languageCode = "en-us"
-title = "El Meu Lloc Web de Hugo"
+title = "ClozeOne"
 theme = "mini"
