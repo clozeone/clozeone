@@ -1,5 +1,5 @@
 +++
-title = "Text de prova"
+title = "So how much do you know about China?"
 date = "2023-11-28T21:57:18+01:00"
 author = "Sergi Sobrino"
 authorTwitter = "" #do not include @
@@ -8,7 +8,7 @@ tags = ["fun", ""]
 keywords = ["China", ""]
 description = ""
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 +++
