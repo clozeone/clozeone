@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on ClozeOne</title>
     <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on ClozeOne</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Tue, 28 Nov 2023 21:57:18 +0100</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Text de prova</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>https://example.org/posts/text-de-prova/</link>
       <pubDate>Tue, 28 Nov 2023 21:57:18 +0100</pubDate>
       
-      <guid>https://example.org/posts/my-first-post/</guid>
-      <description>Haurieu de poder veure aixo</description>
-      <content>&lt;p&gt;Haurieu de poder veure aixo&lt;/p&gt;
+      <guid>https://example.org/posts/text-de-prova/</guid>
+      <description>The concept of China as an inhabited entity began almost 4,000 years ago. The birthplace of Chinese civilisation is the region known as the North China Plain, which the Chinese refer to as the Central Plain. A large, low-lying tract of nearly 160,000 square miles, it is situated below Inner Mongolia, south of Manchuria, in and around the Yellow River Basin and down past the Yangtze River, which both run east to west.</description>
+      <content>&lt;p&gt;The concept of China as an inhabited entity began almost 4,000 years ago. The birthplace of Chinese civilisation is the region known as the North China Plain, which the Chinese refer to as the Central Plain. A large, low-lying tract of nearly 160,000 square miles, it is situated below Inner Mongolia, south of Manchuria, in and around the Yellow River Basin and down past the Yangtze River, which both run east to west. It is now one of the most densely populated areas in the world.&lt;/p&gt;
 </content>
     </item>
     
