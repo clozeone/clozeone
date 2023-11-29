@@ -2,19 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ClozeOne</title>
-    <link>https://example.org/posts/</link>
+    <link>https://clozeone.github.io/posts/</link>
     <description>Recent content in Posts on ClozeOne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Nov 2023 21:57:18 +0100</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Nov 2023 21:57:18 +0100</lastBuildDate><atom:link href="https://clozeone.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Text de prova</title>
-      <link>https://example.org/posts/text-de-prova/</link>
+      <title>So, how much do you know about China?</title>
+      <link>https://clozeone.github.io/posts/so-how-much-do-you-know-about-china/</link>
       <pubDate>Tue, 28 Nov 2023 21:57:18 +0100</pubDate>
       
-      <guid>https://example.org/posts/text-de-prova/</guid>
-      <description>The concept of China as an inhabited entity began almost 4,000 years ago. The birthplace of Chinese civilisation is the region known as the North China Plain, which the Chinese refer to as the Central Plain. A large, low-lying tract of nearly 160,000 square miles, it is situated below Inner Mongolia, south of Manchuria, in and around the Yellow River Basin and down past the Yangtze River, which both run east to west.</description>
-      <content>&lt;p&gt;The concept of China as an inhabited entity began almost 4,000 years ago. The birthplace of Chinese civilisation is the region known as the North China Plain, which the Chinese refer to as the Central Plain. A large, low-lying tract of nearly 160,000 square miles, it is situated below Inner Mongolia, south of Manchuria, in and around the Yellow River Basin and down past the Yangtze River, which both run east to west. It is now one of the most densely populated areas in the world.&lt;/p&gt;
+      <guid>https://clozeone.github.io/posts/so-how-much-do-you-know-about-china/</guid>
+      <description>Essencialment, sóc un professor d&amp;rsquo;anglès. Més essencialment, però, sóc un professor. Això és el que devien pensar quan, a l&amp;rsquo;escola on treballo, em van encarregar ensenyar geografia en anglès aquest any - i els vinents, segons sembla. Em van donar un llibre com a punt de partida, Prisoners of Geography, d&amp;rsquo;en Tim Marshall. És una visió molt generalista de la geopolítica, però és una visió de la geopolítica, i és per tant més del que la pràctica totalitat dels meus alumnes tenen.</description>
+      <content>&lt;p&gt;&lt;img src=&#34;images/worldmap.jpg&#34; alt=&#34;mapa del món, en un to ataronjat similar al de la pàgina&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Essencialment, sóc un professor d&amp;rsquo;anglès. Més essencialment, però, sóc un professor. Això és el que devien pensar quan, a l&amp;rsquo;escola on treballo, em van encarregar ensenyar geografia en anglès aquest any - i els vinents, segons sembla. Em van donar un llibre com a punt de partida, &lt;em&gt;Prisoners of Geography&lt;/em&gt;, d&amp;rsquo;en Tim Marshall. És una visió molt generalista de la geopolítica, però és una visió de la geopolítica, i és per tant més del que la pràctica totalitat dels meus alumnes tenen. Hi ha algun noi - majorment són els nois, encara que no entenc ben bé per què - que s&amp;rsquo;ha interessat per la geografia. Els encanta memoritzar capitals, banderes, països. Les notícies els fan més mandra, però n&amp;rsquo;hi ha que intenten tenir una mica d&amp;rsquo;idea perquè s&amp;rsquo;estan formant una visió del món. L&amp;rsquo;ideologia els arriba abans que les dades, a la majoria, però no és cap sorpresa, tampoc: sentim, i després pensem com justifiquem aquests sentiments. A mi les idees em van arribar tard, però no he estat mai gaire llest.&lt;/p&gt;
+&lt;p&gt;De l&amp;rsquo;experiència que tinc, encara molt breu, n&amp;rsquo;extrec que fa falta activar el seu coneixement previ, i després anar duent a terme el procés d&amp;rsquo;abocar informació i després fer-los organitzar-la, repetidament, fins que s&amp;rsquo;han quedat amb els punts essencials. Com a mínim els meus alumnes saben que &lt;em&gt;Russia is big&lt;/em&gt;. Estic intentant trobar la mida: quanta informació he de donar abans de fer-los-la (?) estudiar, organitzar, i retornar. El que si que he après ja és que donar-los les respostes és una mala idea, perquè són les meves respostes, no les seves. Se&amp;rsquo;ls ha de donar les preguntes i els mitjans per trobar les respostes. I, aquesta vegada, provaré de fer-los també trobar les preguntes a ells, perque saber &lt;em&gt;què em poden demanar, d&amp;rsquo;això&lt;/em&gt; és importantíssim.&lt;/p&gt;
+&lt;p&gt;Estic molt centrat en la millora del procés, però em preocupa estar deixant de banda un altre tema important: quina és la meva intenció, en el fons? Per suposat, vull que els meus alumnes tinguin una idea general dels &lt;strong&gt;fets&lt;/strong&gt; de la geopolítica, però també voldria que n&amp;rsquo;entenguessin els &lt;strong&gt;processos i causes&lt;/strong&gt;. Vull que entenguin com de gran és el món, però també com funciona. En la mesura que pugui, és clar. Jo tampoc és que en tingui gaire idea.&lt;/p&gt;
 </content>
     </item>
     

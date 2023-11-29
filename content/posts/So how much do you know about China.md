@@ -13,7 +13,7 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-![mapa del món, en un to ataronjat similar al de la pàgina](worldmap.jpg)
+![mapa del món, en un to similar al de la pàgina](/images/worldmap.jpg)
 
 Essencialment, sóc un professor d'anglès. Més essencialment, però, sóc un professor. Això és el que devien pensar quan, a l'escola on treballo, em van encarregar ensenyar geografia en anglès aquest any - i els vinents, segons sembla. Em van donar un llibre com a punt de partida, *Prisoners of Geography*, d'en Tim Marshall. És una visió molt generalista de la geopolítica, però és una visió de la geopolítica, i és per tant més del que la pràctica totalitat dels meus alumnes tenen. Hi ha algun noi - majorment són els nois, encara que no entenc ben bé per què - que s'ha interessat per la geografia. Els encanta memoritzar capitals, banderes, països. Les notícies els fan més mandra, però n'hi ha que intenten tenir una mica d'idea perquè s'estan formant una visió del món. L'ideologia els arriba abans que les dades, a la majoria, però no és cap sorpresa, tampoc: sentim, i després pensem com justifiquem aquests sentiments. A mi les idees em van arribar tard, però no he estat mai gaire llest.
  
