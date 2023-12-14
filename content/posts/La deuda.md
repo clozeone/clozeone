@@ -46,7 +46,7 @@ On la Xina ha aconseguit desenvolupar-se, Argentina ha caigut a la òrbita dels 
 
 # 阿根廷
 
-És una tragèdia pels argentins, que pateixen moltíssim aquestes decisions econòmiques i veuen el seu país esquarterat. El que nosaltres podem aprendre és que, en la geopolítica i en el comerç internacional, els països necessiten desenvolupar les seves infraestructures i la seva indústria per no ser víctimes de tractes injustos. 
+És una tragèdia pels argentins, que pateixen moltíssim aquestes decisions econòmiques i veuen el seu país esquarterat. El que nosaltres podem aprendre és que, en la geopolítica i en el comerç internacional, els països necessiten desenvolupar les seves infraestructures i la seva indústria (i, en ocasions, el seu exèrcit) per no ser víctimes de tractes injustos. Tot i això, de vegades es troben amb traïdors a la seva societat que estàn disposats a sabotejar el seu païs per fer-se rics. 
 
 
 
