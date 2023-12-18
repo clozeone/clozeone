@@ -20,11 +20,12 @@ M'agradaria parlar de moltes coses a la meva assignatura de socials, però no ti
 Argentina no és una gran potència econòmica ni militar. No és un punt central de la geopolítica global. La llàstima és que podria haver-ho estat. És un exemple de país amb molts recursos i molt potencial que es queda a mitges perquè no sap desenvolupar la seva pròpia indústria - o no li permeten. 
 
 # Enveja
+
 Argentina es va independitzar de l'imperi espanyol l'any 1816, cosa que em fa *bastanta enveja*. Menys d'una dècada després, ja s'havia endeutat amb el Barings Bank britànic per la xifra d'un milió de lliures, quantitat que ara equivaldria a 110000 milions de lliures. Això passa amb molts nous països, que han de construïr infraestructures necessàries.
 
 El préstec era d'un milió de lliures, però Argentina només va rebre 570000 lliures. La resta es va esvaïr en comissions i despeses. La delegació de negociadors argentins i britànics van oferir al banc l'estat de Buenos Aires en la seva totalitat com a garantia pels préstecs. A més, dels diners que l'Argentina va rebre, només un 20% va ser en or: la resta va ser en bitllets, i era per tant depenent del propi imperi britànic. 
 
-El crèdit es va demanar per a la millora i ampliació del port de Buenos Aires. En comptes d'això, els diners es van fondre ràpidament en una guerra contra Brasil que comptava amb el suport militar dels britànics, que van bloquejar el port de Buenos Aires durant tres anys. L'any 1827 l'Argentina va ser incapaç de pagar el préstec i el Barings Bank es va quedar amb dues fragates que s'estaven construïnt a Anglaterra, pagades per Argentina. Això va contribuïr a debilitar l'exèrcit argentí, i a que el Regne Unit no tingués cap problema per ocupar les illes Malvines.
+El crèdit es va demanar per a la millora i ampliació del port de Buenos Aires. En comptes d'això, els diners es van fondre ràpidament en una guerra contra Brasil. Brasil comptava amb el suport militar dels britànics, que van bloquejar el port de Buenos Aires durant tres anys. L'any 1827 l'Argentina va ser incapaç de pagar el préstec i el Barings Bank es va quedar amb dues fragates que s'estaven construïnt a Anglaterra, pagades per Argentina. Això va contribuïr a debilitar l'exèrcit argentí, i a que el Regne Unit no tingués cap problema per ocupar les illes Malvines. Macos, els britànics, eh? Quan dic que sovint em sento brut ensenyant anglès és per coses com aquestes. 
 
 L'Argentina va ser incapaç de pagar aquest deute dues vegades més durant el segle XIX. Va acabar de pagar-lo el 1904. En resum, un préstec malgastat que va condicionar la política argentina durant tot el segle XIX, que va trigar 80 anys en tornar-se, i que va costar vuit vegades el demanat originalment. 
 
@@ -47,6 +48,3 @@ On la Xina ha aconseguit desenvolupar-se, Argentina ha caigut a la òrbita dels 
 # 阿根廷
 
 És una tragèdia pels argentins, que pateixen moltíssim aquestes decisions econòmiques i veuen el seu país esquarterat. El que nosaltres podem aprendre és que, en la geopolítica i en el comerç internacional, els països necessiten desenvolupar les seves infraestructures i la seva indústria (i, en ocasions, el seu exèrcit) per no ser víctimes de tractes injustos. Tot i això, de vegades es troben amb traïdors a la seva societat que estàn disposats a sabotejar el seu païs per fer-se rics. 
-
-
-
