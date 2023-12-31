@@ -32,7 +32,7 @@ Això ha dut durant molt temps al fracàs escolar: nens que no acaben els estudi
 
 Una manera popular i trista de resoldre els problemes és cenyir-se a les definicions. En el cas de l'ESO, el que hem fet - com a societat, vull dir - és el que, des de fa unes dècades, s'ha convertit en el mètode estàndard: quantificar, i després fer que els números millorin. És una manera científica de fer que, a més, permet ensenyar gràfics amb fletxes que progressen de manera ascendent, objectiu últim de qualsevol gestor. 
 
-![imatge d'unes muntanyes amb un filtre taronja](/images/argentina.jpeg)
+![stonks](/images/stonks.png)
 
 Si som estrictes amb les definicions i els números, l'educació no deixa de millorar. Tenim menys fracàs escolar perque és estrany que un alumne no arribi fins els 16 anys a l'escola. El procediment seguit, però, ha estat rebaixar el nivell d'exigència progressivament i canviar la definició mateixa de l'ESO: ja no és un nivell acadèmic que hem d'assolir, sino un període de temps a exhaurir. La paraula clau és "acompanyament". El que passa és que hi ha altres números que contradiuen això: les proves PISA. No vull dir, ni molt menys, que les proves PISA siguin un bon mètode per avaluar la competència dels alumnes, però són examens en que hem de mostrar un cert coneixement que es passen a una etapa en que hem deixat d'exigir res, perque no va d'això, l'ESO.
 
