@@ -1,14 +1,14 @@
 +++
 title = "As A Service"
 date = "2024-01-01T19:24:24+01:00"
-author = ""
+author = "Sergi Sobrino"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["economia", "societat"]
 keywords = ["", ""]
 description = ""
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 draft = false
